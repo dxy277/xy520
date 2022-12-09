@@ -579,7 +579,6 @@ li{
 .enav03_team{
 	width: 100%;
 	height: 50%;
-	background-color: #FFFFFF;
 	font-size: 0; /*去除图片间的间隙*/
 }
 .enav03_team img{
@@ -596,12 +595,12 @@ li{
 	width: 115px;
 }
 
-/* 页面四-商业合作 */
+/* 页面四-合作 */
 #nav04{
 	width: 100%;
 	height: 100%;
 	background-color: #efefef;
-	/* 商业合作页面背景图片1 */
+	/* 合作页面背景图片1 */
 	background-image: url(../img/exwg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -614,7 +613,7 @@ li{
 .nav04_bg{
 	width: 100%;
 	height: 100%;
-	/* 商业合作页面背景图片2 */
+	/* 合作页面背景图片2 */
 	background-image: url(../img/exwg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
